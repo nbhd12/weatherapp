@@ -1,6 +1,5 @@
 🖼️ Preview
 <p align="center"> <img src="./Preview2.png" alt="Aperçu de l'application météo" width="700"/> </p>
-Gauche : Vue tablette — Droite : Vue mobile
 
 ## Application Météo
 Une application météo responsive avec un design en neumorphisme doux. 
