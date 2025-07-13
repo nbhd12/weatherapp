@@ -7,8 +7,6 @@ Une application météo responsive avec un design en neumorphisme doux.
 L'utilisateur peut entrer le nom d'une ville pour obtenir les données en temps réel de température, ressentie, et humidité via une API externe.
 
 ## Fonctionnalités
-- Données météo en temps réel (température, température ressentie, humidité)
-- Interface utilisateur en neumorphisme
 - Design adaptatif (tablette et mobile)
 - Développée avec HTML, CSS, JavaScript
 - Fetch API pour récupérer les données
