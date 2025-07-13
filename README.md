@@ -11,7 +11,7 @@ L'utilisateur peut entrer le nom d'une ville pour obtenir les données en temps 
 - Fetch API pour récupérer les données
 - OpenWeatherMap API
 
-## 🚀 Démo en ligne - 🔗 https://nbhd12.github.io/weatherapp
+## Démo en ligne - 🔗 https://nbhd12.github.io/weatherapp
 
 ---
 
